@@ -7,6 +7,7 @@
 <body>
 
     <h2>Student Registration Form</h2>
+    <h3> hii </h3>
 
     <form action="register" method="post">
 
